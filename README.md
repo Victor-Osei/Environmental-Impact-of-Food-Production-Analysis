@@ -45,3 +45,14 @@ The goal of this project is to assess the environmental impact of food productio
 H₀ (Null Hypothesis): There is no significant difference in environmental impact between plant-based and animal-based foods.
 
 H₁ (Alternative Hypothesis): Animal-based foods have a significantly higher environmental impact than plant-based foods.
+
+### Data Understanding
+The dataset includes 43 food products and 23 features related to environmental impacts (such as land use, water use, and carbon footprint across production stages).
+
+Key features:
+
+* Greenhouse gas emissions across production stages (land use change, animal feed, transport, packaging, etc.).
+
+* Eutrophication impact (nutrient runoff affecting water bodies).
+
+* Water and land usage metrics.
