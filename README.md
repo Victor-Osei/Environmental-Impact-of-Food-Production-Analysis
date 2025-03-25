@@ -46,6 +46,15 @@ H₀ (Null Hypothesis): There is no significant difference in environmental impa
 
 H₁ (Alternative Hypothesis): Animal-based foods have a significantly higher environmental impact than plant-based foods.
 
+## Hypothesis Testing Summary
+
+| Metric           | U-statistic | p-value  | Result                    |
+|-----------------|------------|----------|---------------------------|
+| Total Emissions | 27.0000     | 1.0000   | No significant difference |
+| Total Water Use | 117.0000    | 0.9185   | No significant difference |
+| Total Land Use  | 95.0000     | 0.9787   | No significant difference |
+
+
 ### Data Understanding
 The dataset includes 43 food products and 23 features related to environmental impacts (such as land use, water use, and carbon footprint across production stages).
 
