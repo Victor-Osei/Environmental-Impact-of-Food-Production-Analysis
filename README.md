@@ -34,7 +34,7 @@ The goal of this project is to assess the environmental impact of food productio
 
 5. How do different food categories (cereals, dairy, meat, vegetables) impact the environment?
 
-6. What are the top contributors to eutrophication (water pollution)?
+6. What are the  five contributors to eutrophication (water pollution)?
 
 7. Can we group foods based on their environmental impact using clustering?
 
