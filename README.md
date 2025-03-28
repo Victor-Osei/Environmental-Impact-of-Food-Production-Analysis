@@ -48,11 +48,11 @@ H₁ (Alternative Hypothesis): Animal-based foods have a significantly higher en
 
 ## Hypothesis Testing Summary
 
-| Metric           | U-statistic | p-value  | Result                    |
-|-----------------|------------|----------|---------------------------|
+| Metric           | U-statistic | p-value  | Result                   |
+|-----------------|------------|----------|----------------------------|
 | Total Emissions | 27.0000     | 1.0000   | No significant difference |
-| Total Water Use | 117.0000    | 0.9185   | No significant difference |
-| Total Land Use  | 95.0000     | 0.9787   | No significant difference |
+| Total Water Use | 91.0000     | 0.9840   | No significant difference |
+| Total Land Use  | 59.0000     | 0.9989   | No significant difference |
 
 
 ### Data Understanding
