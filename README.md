@@ -1,5 +1,5 @@
 # Environmental Impact of Food Production Analysis
-The Environmental Impact of Food Production Analysis project focuses on dissecting the environmental impact of food production, with an emphasis on key metrics such as carbon emissions, water usage, land use, and biodiversity loss.
+The Environmental Impact of Food Production Analysis project focuses on dissecting the various environmental impact of food production, with an emphasis on key metrics such as carbon emissions, water usage, and land use.
 
 
 ## 1. Business Understanding
