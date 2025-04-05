@@ -33,7 +33,7 @@ Key Objectives;
 
 4. Which food production stage (farm, transport, packaging, retail) contributes most to emissions?
 
-5. How do different food categories (cereals, dairy, meat, vegetables) impact the environment?
+5. How do different food types (cereals, dairy, meat, vegetables) impact the environment?
 
 6. What are the  five contributors to eutrophication (water pollution)?
 
