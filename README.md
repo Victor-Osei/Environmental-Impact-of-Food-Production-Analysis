@@ -176,6 +176,8 @@ Several analytical techniques were applied to derive insights:
 
 ## 7. Deployment
 
+https://app.powerbi.com/groups/me/reports/ae484ea3-4cb9-4685-bc8b-3cbf7eaf1a4d/ac580dee05911968cb06?experience=power-bi 
+
 
 ## 8. Conclusion
 
